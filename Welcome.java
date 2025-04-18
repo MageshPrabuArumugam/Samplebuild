@@ -1,5 +1,5 @@
 
-public Class Welcome
+public class Welcome
 
 {
 
